@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Expense Management</string>
+    <string-array name="expenseCategoryArray">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
